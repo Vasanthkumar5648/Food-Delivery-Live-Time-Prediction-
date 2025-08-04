@@ -1,0 +1,7 @@
+streamlit
+googlemaps
+tensorflow
+numpy 
+pandas
+dotenv
+os
